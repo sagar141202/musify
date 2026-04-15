@@ -1,0 +1,42 @@
+# macOS
+.DS_Store
+
+# Local source bundle copied into the workspace by the desktop app
+files 3/
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+
+# Node / Expo
+node_modules/
+.expo/
+dist/
+web-build/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Android / iOS build outputs
+android/
+ios/
+*.apk
+*.aab
+
+# Coverage
+coverage/
+htmlcov/
+
+# Local data
+postgres-data/
+redis-data/
+downloads/
