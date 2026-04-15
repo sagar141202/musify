@@ -1,0 +1,25 @@
+{
+  "expo": {
+    "name": "SoundFree",
+    "slug": "soundfree",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "scheme": "soundfree",
+    "userInterfaceStyle": "dark",
+    "android": {
+      "package": "com.sagarmaddi.soundfree",
+      "adaptiveIcon": {
+        "backgroundColor": "#0A0A0A"
+      }
+    },
+    "plugins": [
+      "expo-router"
+    ],
+    "experiments": {
+      "typedRoutes": true
+    },
+    "extra": {
+      "apiUrl": "http://localhost:8000"
+    }
+  }
+}
