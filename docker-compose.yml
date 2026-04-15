@@ -2,9 +2,9 @@ services:
   postgres:
     image: postgres:16-alpine
     environment:
-      POSTGRES_DB: soundfree
-      POSTGRES_USER: soundfree
-      POSTGRES_PASSWORD: soundfree
+      POSTGRES_DB: musify
+      POSTGRES_USER: musify
+      POSTGRES_PASSWORD: musify
     ports:
       - "5432:5432"
     volumes:

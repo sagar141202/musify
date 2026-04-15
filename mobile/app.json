@@ -1,13 +1,13 @@
 {
   "expo": {
-    "name": "SoundFree",
-    "slug": "soundfree",
+    "name": "Musify",
+    "slug": "musify",
     "version": "1.0.0",
     "orientation": "portrait",
-    "scheme": "soundfree",
+    "scheme": "musify",
     "userInterfaceStyle": "dark",
     "android": {
-      "package": "com.sagarmaddi.soundfree",
+      "package": "com.sagarmaddi.musify",
       "adaptiveIcon": {
         "backgroundColor": "#0A0A0A"
       }

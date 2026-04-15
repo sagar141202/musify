@@ -1,6 +1,6 @@
-# SoundFree
+# Musify
 
-SoundFree is a personal React Native music streaming app backed by a FastAPI service.
+Musify is a personal React Native music streaming app backed by a FastAPI service.
 
 ## Repository Layout
 

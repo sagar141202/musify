@@ -12,7 +12,7 @@ export default function ProfileScreen() {
       <View style={styles.avatar}>
         <Ionicons name="musical-notes" size={34} color={colors.bg} />
       </View>
-      <Text style={styles.title}>Sagar's SoundFree</Text>
+      <Text style={styles.title}>Sagar's Musify</Text>
       <Text style={styles.subtitle}>Android-first personal streaming setup.</Text>
 
       <View style={styles.panel}>
